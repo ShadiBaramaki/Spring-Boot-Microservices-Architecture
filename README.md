@@ -5,7 +5,7 @@ This project is a **fully functional Spring Boot microservices architecture** wi
 
 ---
 
-## 🛠️ Features
+##  Features
 ### 🔗 **Core Microservices**
 - **API Gateway** (`api-gateway`): Centralized entry point for managing requests and authentication.
 - **Service Discovery** (`discovery-server`): Uses **Netflix Eureka** for dynamic service registration and load balancing.
@@ -30,7 +30,7 @@ This project integrates **Prometheus** and **Grafana** to track system health an
 - **Grafana Dashboard**
 ![Grafana Dashboard](https://github.com/user-attachments/assets/6d1252d1-6247-4a4c-a43f-56a50ff4eaa4)
 
-## 🎯 Conclusion
+## Conclusion
 This project provides a solid foundation for building scalable, secure, and observable microservices using **Spring Boot, Netflix Eureka, Keycloak, Kafka, Prometheus, and Grafana**. It ensures efficient service communication, authentication, and real-time monitoring. 🚀🔥
 
 
