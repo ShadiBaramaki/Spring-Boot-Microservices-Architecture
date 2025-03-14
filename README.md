@@ -25,9 +25,9 @@ This project is a **fully functional Spring Boot microservices architecture** wi
 
 ##  Monitoring Dashboard
 This project integrates **Prometheus** and **Grafana** to track system health and performance.
-**Prometheus Dashboard**
+- **Prometheus Dashboard**
 ![Prometheus Dashboard](https://github.com/user-attachments/assets/5cd5cd04-1108-4eb2-babc-17df0f33135f)
-**Grafana Dashboard**
+- **Grafana Dashboard**
 ![Grafana Dashboard](https://github.com/user-attachments/assets/6d1252d1-6247-4a4c-a43f-56a50ff4eaa4)
 
 ## 🎯 Conclusion
